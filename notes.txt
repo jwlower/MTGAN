@@ -1,0 +1,5 @@
+Jacob's Notes:
+
+Main Idea: Magic Card maker. Creates card art and pairs it with generated text. 
+
+For now, GAN for art, simple hardcoded tree for text with weighted values for color.
